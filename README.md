@@ -13,7 +13,7 @@ Fios usei de Fonte de PC<br>
 Caixa de Madeira comprada em Loja de Artesanato, com as medidas:<br>
 36cm de largura, 18cm profundidade e 4,5cm de altura.<br>
 <br>
-Usei sonda Cobix e ferro de solda da Hikari, é muito bom usar solda e um ferro de boa qualidade.<br>
+Usei solda Cobix e ferro de solda da Hikari, é muito bom usar solda e um ferro de boa qualidade.<br>
 Todo o esquema de ligação das chaves e leds estão bem detalhadas nas imagens.
 <br>
 <p><a href="https://youtu.be/I-JBo6daacU"><b> ** VÍDEO DE DEMONSTRAÇÃO DO FUNCIONAMENTO ** </b></a></p>
