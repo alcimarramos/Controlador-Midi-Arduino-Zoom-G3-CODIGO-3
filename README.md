@@ -1,5 +1,5 @@
 # Controlador Midi Arduino Para Pedaleira ZOOM G3
-# CÓDIGO 1 - 10 Presets Bank UP e Down
+# CÓDIGO 3 - 20 Presets
 Controlador com <b>10 Pedais</b> para acessar <b>20 Patches</b>.<br>
 Pisou na chave vem um Preset do Banco A.
 <br>
