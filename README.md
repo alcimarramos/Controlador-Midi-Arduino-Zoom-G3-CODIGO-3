@@ -3,8 +3,8 @@
 Controlador com <b>10 Pedais</b> para acessar <b>20 Patches</b>.<br>
 Pisou na chave vem um Preset do Banco A.
 <br>
-Se você pisar na mesma chave novamente entra um Preset do Banco B.
-<br>
+Se você pisar na mesma chave novamente entra um Preset do Banco B.<br>
+Usei LEDs programáveis, pela opção de poder usar os 10 em uma única porta Digital do Arduíno, pois com LEDs comuns não daria pra realizar o projeto no UNO.<br>
 <br>
 <b>LISTA DE MATERIAIS:</b><br>
 1 Arduíno UNO<br>
